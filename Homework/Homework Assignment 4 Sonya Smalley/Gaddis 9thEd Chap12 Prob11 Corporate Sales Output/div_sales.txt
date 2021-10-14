@@ -1,0 +1,24 @@
+Division North
+First-quarter sales: 10
+First-quarter sales: 20
+First-quarter sales: 30
+First-quarter sales: 40
+
+Division East
+First-quarter sales: 20
+First-quarter sales: 30
+First-quarter sales: 40
+First-quarter sales: 50
+
+Division South
+First-quarter sales: 30
+First-quarter sales: 40
+First-quarter sales: 50
+First-quarter sales: 60
+
+Division West
+First-quarter sales: 40
+First-quarter sales: 50
+First-quarter sales: 60
+First-quarter sales: 70
+
