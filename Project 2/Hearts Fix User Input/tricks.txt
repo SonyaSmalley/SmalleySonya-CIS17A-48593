@@ -1,0 +1,3 @@
+Round 1: Three of Clubs, Queen of Diamonds, Five of Clubs, Queen of Clubs, Eight of Clubs
+Round 2: Three of Diamonds, Four of Diamonds, Seven of Diamonds, Nine of Diamonds, Five of Diamonds
+Round 3: Four of Spades, Two of Spades, Ace of Spades, Five of Spades, Ten of Spades
